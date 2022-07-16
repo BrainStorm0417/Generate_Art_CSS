@@ -19,16 +19,6 @@ A web component for drawing patterns with CSS.
 </css-doodle>
 ```
 
-## Docs
-[https://css-doodle.com](http://css-doodle.com)
-
-
-## Design tools
-
-* [Tabbied](https://tabbied.com) -- Doodle with generated patterns
-* [Shapes](https://css-doodle.com/shapes) -- Discover new CSS polygon shapes
-
-
 ## Build
 
 ```bash
